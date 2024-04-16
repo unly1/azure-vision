@@ -1,0 +1,15 @@
+
+{
+    "apim-request-id": "e34ca6f0-c8b1-498f-9b05-ae22d4e093b7",
+    "content-length": "167",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a man wearing a blue shirt and earbuds",
+      "confidence": 0.8043304681777954
+    },
+    "metadata": {
+      "width": 1200,
+      "height": 1600
+    }
+  }
